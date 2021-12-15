@@ -1,0 +1,57 @@
+/*This is the affiliated CSS sheet for final_template.html.*/
+
+body {
+  font-family: Georgia, sans-serif;
+  max-width: 70rem;
+  margin-left: auto;
+  margin-right: auto;
+  align-content: center;
+}
+
+.figure-caption {
+	max-width: 70rem;
+ 	margin-left: auto;
+  	margin-right: auto;
+ 	align-content: center;
+}
+
+
+h1, h3 {
+	font-family: 'Georgia', serif;
+}
+
+h1 {
+	color: lightblue;
+}
+
+h3 {
+	color: deeppink;
+}
+
+p, .lead {
+	font-family: 'Georgia', serif;
+}
+button {
+	margin-left: 10px;
+}
+.accordion {
+	margin-bottom: 30px;
+}
+.accordion-button {
+	font-weight: bold;
+}
+.fixed-bottom {
+	margin-left: 10px;
+	margin-top: 30px;
+	padding: 5px;
+	text-align: center;
+}
+
+img {
+	height: 15%;
+	width: 100%;
+ 	margin-left: auto;
+  	margin-right: auto;
+ 	align-content: center;
+}
+
